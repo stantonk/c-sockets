@@ -1,0 +1,1 @@
+void DieWithError(char *errorMessage);
